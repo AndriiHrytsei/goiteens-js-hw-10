@@ -1,8 +1,8 @@
-import * as hw8 from "./js/hw8.js"
-import * as hw9 from "./js/hw9.js"
+import * as homeWork8 from "./js/hw8.js"
+import * as homeWork9 from "./js/hw9.js"
 
-hw8.increaseBtn.addEventListener("click", hw8.increaseOnClick)
-hw8.decreaseBtn.addEventListener("click", hw8.decreaseOnClick)
-hw8.nameInput.addEventListener("input", hw8.writeNameOnInput)
+homeWork8.increaseBtn.addEventListener("click", homeWork8.increaseOnClick)
+homeWork8.decreaseBtn.addEventListener("click", homeWork8.decreaseOnClick)
+homeWork8.nameInput.addEventListener("input", homeWork8.writeNameOnInput)
 
-hw9.changeColorBtn.addEventListener("click", hw9.changeColorOnClick);
+homeWork9.changeColorBtn.addEventListener("click", homeWork9.changeColorOnClick);
