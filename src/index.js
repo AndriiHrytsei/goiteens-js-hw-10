@@ -1,5 +1,5 @@
-import * as hw8 from "./js/hw8"
-import * as hw9 from "./js/hw9"
+import * as hw8 from "./js/hw8.js"
+import * as hw9 from "./js/hw9.js"
 
 hw8.increaseBtn.addEventListener("click", hw8.increaseOnClick)
 hw8.decreaseBtn.addEventListener("click", hw8.decreaseOnClick)
